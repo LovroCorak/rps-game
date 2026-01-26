@@ -12,6 +12,7 @@ Simple Python console game implementing game logic, input validation, and loop c
 ## 🚀 Quick Start
 ```bash
 python rps.py
+```
 
 # 🎮 GUI Version (V2.0) 
 Tkinter graphical upgrade of the console game.
@@ -25,5 +26,5 @@ Tkinter graphical upgrade of the console game.
 **🚀 Run:**
 ```bash
 python "RPS V2.0.py"
-
+```
 
