@@ -12,3 +12,18 @@ Simple Python console game implementing game logic, input validation, and loop c
 ## 🚀 Quick Start
 ```bash
 python rps.py
+
+# 🎮 GUI Version (V2.0) 
+Tkinter graphical upgrade of the console game.
+
+**✨ Features:**
+- Buttons: Rock, Paper, Scissors
+- Live score tracking (Player vs Computer)  
+- Reset button for new games
+- Emoji feedback (✅❌🤝)
+
+**🚀 Run:**
+```bash
+python "RPS V2.0.py"
+
+
